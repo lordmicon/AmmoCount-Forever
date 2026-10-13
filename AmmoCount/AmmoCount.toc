@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: AmmoCount
+## Notes: Shows current / max ammo over your quiver or ammo pouch bag icon (Hunters only).
+## Author: You
+## Version: 1.4.0
+## SavedVariables: AmmoCountDB
+
+AmmoCount.lua
